@@ -1,0 +1,8 @@
+{
+    "tasks": [
+      { "id": 1, "title": "task1", "description": "desctassk1", "status": "todo", "user": "rinor"}
+    ],
+    "users": [
+      { "id": 1, "fistName": "Rinor", "lastName":"Hyseni", "active": true}
+    ]
+  }
